@@ -1,3 +1,3 @@
 Occupation: Student 
-Major: CS
+Major: CS 
 Languages known: Java, HTML, CSS
